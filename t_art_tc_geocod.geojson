@@ -1,0 +1,1756 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.7338415,
+          49.23716649999999,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Chemin Du Bois Jambon - PORT-VILLEZ",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-4dfd35d6",
+        "description": "ogc_fid: 1<br>id_art: C0216<br>lib_art_crt: Chemin Du Bois Jambo<br>lib_art_lng: Chemin Du Bois Jambon<br>code_insee: 78503<br>nom_comm: PORT-VILLEZ<br>res_geocod_google: route",
+        "ogc_fid": 1,
+        "id_art": "C0216",
+        "lib_art_crt": "Chemin Du Bois Jambo",
+        "lib_art_lng": "Chemin Du Bois Jambon",
+        "code_insee": 78503,
+        "nom_comm": "PORT-VILLEZ",
+        "res_geocod_google": "route"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.546488,
+          49.035124,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Route De Rouen Abri Bus - JEUFOSSE",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-4dfd35d6",
+        "description": "ogc_fid: 2<br>id_art: C0218<br>lib_art_crt: Route De Rouen Abri<br>lib_art_lng: Route De Rouen Abri Bus<br>code_insee: 78320<br>nom_comm: JEUFOSSE<br>res_geocod_google: locality",
+        "ogc_fid": 2,
+        "id_art": "C0218",
+        "lib_art_crt": "Route De Rouen Abri",
+        "lib_art_lng": "Route De Rouen Abri Bus",
+        "code_insee": 78320,
+        "nom_comm": "JEUFOSSE",
+        "res_geocod_google": "locality"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.529704,
+          49.040687,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Chemin De La Mare St Augustin - PORT-VILLEZ",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-4dfd35d6",
+        "description": "ogc_fid: 3<br>id_art: C0219<br>lib_art_crt: Chemin De La Mare St<br>lib_art_lng: Chemin De La Mare St Augustin<br>code_insee: 78503<br>nom_comm: PORT-VILLEZ<br>res_geocod_google: route",
+        "ogc_fid": 3,
+        "id_art": "C0219",
+        "lib_art_crt": "Chemin De La Mare St",
+        "lib_art_lng": "Chemin De La Mare St Augustin",
+        "code_insee": 78503,
+        "nom_comm": "PORT-VILLEZ",
+        "res_geocod_google": "route"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9708,
+          48.939254,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Les Feugères - MORAINVILLIERS",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-4dfd35d6",
+        "description": "ogc_fid: 4<br>id_art: C0271<br>lib_art_crt: Les Feugères<br>lib_art_lng: Les Feugères<br>code_insee: 78431<br>nom_comm: MORAINVILLIERS<br>res_geocod_google: route",
+        "ogc_fid": 4,
+        "id_art": "C0271",
+        "lib_art_crt": "Les Feugères",
+        "lib_art_lng": "Les Feugères",
+        "code_insee": 78431,
+        "nom_comm": "MORAINVILLIERS",
+        "res_geocod_google": "route"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.951387,
+          48.959588,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Le Tremblay - MORAINVILLIERS",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-4dfd35d6",
+        "description": "ogc_fid: 5<br>id_art: C0272<br>lib_art_crt: Le Tremblay<br>lib_art_lng: Le Tremblay<br>code_insee: 78431<br>nom_comm: MORAINVILLIERS<br>res_geocod_google: route",
+        "ogc_fid": 5,
+        "id_art": "C0272",
+        "lib_art_crt": "Le Tremblay",
+        "lib_art_lng": "Le Tremblay",
+        "code_insee": 78431,
+        "nom_comm": "MORAINVILLIERS",
+        "res_geocod_google": "route"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.53699,
+          48.792264,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Centre - HAVELU",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-4dfd35d6",
+        "description": "ogc_fid: 6<br>id_art: C0351<br>lib_art_crt: Centre<br>lib_art_lng: Centre<br>code_insee: 28193<br>nom_comm: HAVELU<br>res_geocod_google: locality",
+        "ogc_fid": 6,
+        "id_art": "C0351",
+        "lib_art_crt": "Centre",
+        "lib_art_lng": "Centre",
+        "code_insee": 28193,
+        "nom_comm": "HAVELU",
+        "res_geocod_google": "locality"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.58405,
+          48.75231100000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Cloches - BOUTIGNY-PROUAIS",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-4dfd35d6",
+        "description": "ogc_fid: 7<br>id_art: C0353<br>lib_art_crt: Cloches<br>lib_art_lng: Cloches<br>code_insee: 28056<br>nom_comm: BOUTIGNY-PROUAIS<br>res_geocod_google: sublocality_level_1",
+        "ogc_fid": 7,
+        "id_art": "C0353",
+        "lib_art_crt": "Cloches",
+        "lib_art_lng": "Cloches",
+        "code_insee": 28056,
+        "nom_comm": "BOUTIGNY-PROUAIS",
+        "res_geocod_google": "sublocality_level_1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.565574,
+          48.731663,
+          0
+        ]
+      },
+      "properties": {
+        "name": "La Musse - BOUTIGNY-PROUAIS",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-4dfd35d6",
+        "description": "ogc_fid: 8<br>id_art: C0354<br>lib_art_crt: La Musse<br>lib_art_lng: La Musse<br>code_insee: 28056<br>nom_comm: BOUTIGNY-PROUAIS<br>res_geocod_google: sublocality_level_1",
+        "ogc_fid": 8,
+        "id_art": "C0354",
+        "lib_art_crt": "La Musse",
+        "lib_art_lng": "La Musse",
+        "code_insee": 28056,
+        "nom_comm": "BOUTIGNY-PROUAIS",
+        "res_geocod_google": "sublocality_level_1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.539871,
+          48.712707,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Prouais - BOUTIGNY-PROUAIS",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-4dfd35d6",
+        "description": "ogc_fid: 10<br>id_art: C0357<br>lib_art_crt: Prouais<br>lib_art_lng: Prouais<br>code_insee: 28056<br>nom_comm: BOUTIGNY-PROUAIS<br>res_geocod_google: sublocality_level_1",
+        "ogc_fid": 10,
+        "id_art": "C0357",
+        "lib_art_crt": "Prouais",
+        "lib_art_lng": "Prouais",
+        "code_insee": 28056,
+        "nom_comm": "BOUTIGNY-PROUAIS",
+        "res_geocod_google": "sublocality_level_1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.544585,
+          48.71418400000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Beauchene - BOUTIGNY-PROUAIS",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-4dfd35d6",
+        "description": "ogc_fid: 11<br>id_art: C0358<br>lib_art_crt: Beauchene<br>lib_art_lng: Beauchene<br>code_insee: 28056<br>nom_comm: BOUTIGNY-PROUAIS<br>res_geocod_google: sublocality_level_1",
+        "ogc_fid": 11,
+        "id_art": "C0358",
+        "lib_art_crt": "Beauchene",
+        "lib_art_lng": "Beauchene",
+        "code_insee": 28056,
+        "nom_comm": "BOUTIGNY-PROUAIS",
+        "res_geocod_google": "sublocality_level_1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.588776,
+          48.73071600000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Buchelet - BOUTIGNY-PROUAIS",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-4dfd35d6",
+        "description": "ogc_fid: 12<br>id_art: C0359<br>lib_art_crt: Buchelet<br>lib_art_lng: Buchelet<br>code_insee: 28056<br>nom_comm: BOUTIGNY-PROUAIS<br>res_geocod_google: route",
+        "ogc_fid": 12,
+        "id_art": "C0359",
+        "lib_art_crt": "Buchelet",
+        "lib_art_lng": "Buchelet",
+        "code_insee": 28056,
+        "nom_comm": "BOUTIGNY-PROUAIS",
+        "res_geocod_google": "route"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.596945,
+          48.747288,
+          0
+        ]
+      },
+      "properties": {
+        "name": "St Projet - BOUTIGNY-PROUAIS",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-4dfd35d6",
+        "description": "ogc_fid: 13<br>id_art: C0394<br>lib_art_crt: St Projet<br>lib_art_lng: St Projet<br>code_insee: 28056<br>nom_comm: BOUTIGNY-PROUAIS<br>res_geocod_google: colloquial_area",
+        "ogc_fid": 13,
+        "id_art": "C0394",
+        "lib_art_crt": "St Projet",
+        "lib_art_lng": "St Projet",
+        "code_insee": 28056,
+        "nom_comm": "BOUTIGNY-PROUAIS",
+        "res_geocod_google": "colloquial_area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.592017,
+          48.738277,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Bouchemont - BOUTIGNY-PROUAIS",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-4dfd35d6",
+        "description": "ogc_fid: 15<br>id_art: C0397<br>lib_art_crt: Bouchemont<br>lib_art_lng: Bouchemont<br>code_insee: 28056<br>nom_comm: BOUTIGNY-PROUAIS<br>res_geocod_google: sublocality_level_1",
+        "ogc_fid": 15,
+        "id_art": "C0397",
+        "lib_art_crt": "Bouchemont",
+        "lib_art_lng": "Bouchemont",
+        "code_insee": 28056,
+        "nom_comm": "BOUTIGNY-PROUAIS",
+        "res_geocod_google": "sublocality_level_1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.607931,
+          48.732434,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Beauterne - BOUTIGNY-PROUAIS",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-4dfd35d6",
+        "description": "ogc_fid: 16<br>id_art: C0398<br>lib_art_crt: Beauterne<br>lib_art_lng: Beauterne<br>code_insee: 28056<br>nom_comm: BOUTIGNY-PROUAIS<br>res_geocod_google: sublocality_level_1",
+        "ogc_fid": 16,
+        "id_art": "C0398",
+        "lib_art_crt": "Beauterne",
+        "lib_art_lng": "Beauterne",
+        "code_insee": 28056,
+        "nom_comm": "BOUTIGNY-PROUAIS",
+        "res_geocod_google": "sublocality_level_1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.610182,
+          48.74340500000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Allemant - BOUTIGNY-PROUAIS",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-4dfd35d6",
+        "description": "ogc_fid: 17<br>id_art: C0399<br>lib_art_crt: Allemant<br>lib_art_lng: Allemant<br>code_insee: 28056<br>nom_comm: BOUTIGNY-PROUAIS<br>res_geocod_google: sublocality_level_1",
+        "ogc_fid": 17,
+        "id_art": "C0399",
+        "lib_art_crt": "Allemant",
+        "lib_art_lng": "Allemant",
+        "code_insee": 28056,
+        "nom_comm": "BOUTIGNY-PROUAIS",
+        "res_geocod_google": "sublocality_level_1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.56946,
+          48.76296,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Centre - CHAMPAGNE",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-4dfd35d6",
+        "description": "ogc_fid: 19<br>id_art: C0411<br>lib_art_crt: Centre<br>lib_art_lng: Centre<br>code_insee: 28069<br>nom_comm: CHAMPAGNE<br>res_geocod_google: locality",
+        "ogc_fid": 19,
+        "id_art": "C0411",
+        "lib_art_crt": "Centre",
+        "lib_art_lng": "Centre",
+        "code_insee": 28069,
+        "nom_comm": "CHAMPAGNE",
+        "res_geocod_google": "locality"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.556628,
+          48.77186500000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Centre - GOUSSAINVILLE",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-4dfd35d6",
+        "description": "ogc_fid: 20<br>id_art: C0459<br>lib_art_crt: Centre<br>lib_art_lng: Centre<br>code_insee: 28185<br>nom_comm: GOUSSAINVILLE<br>res_geocod_google: locality",
+        "ogc_fid": 20,
+        "id_art": "C0459",
+        "lib_art_crt": "Centre",
+        "lib_art_lng": "Centre",
+        "code_insee": 28185,
+        "nom_comm": "GOUSSAINVILLE",
+        "res_geocod_google": "locality"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.564331,
+          48.76641399999999,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Mairie - CHAMPAGNE",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-4dfd35d6",
+        "description": "ogc_fid: 21<br>id_art: C0460<br>lib_art_crt: Mairie<br>lib_art_lng: Mairie<br>code_insee: 28069<br>nom_comm: CHAMPAGNE<br>res_geocod_google: city_hall",
+        "ogc_fid": 21,
+        "id_art": "C0460",
+        "lib_art_crt": "Mairie",
+        "lib_art_lng": "Mairie",
+        "code_insee": 28069,
+        "nom_comm": "CHAMPAGNE",
+        "res_geocod_google": "city_hall"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.58572,
+          48.724547,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Les Joncs - BOUTIGNY-PROUAIS",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-4dfd35d6",
+        "description": "ogc_fid: 22<br>id_art: C0461<br>lib_art_crt: Les Joncs<br>lib_art_lng: Les Joncs<br>code_insee: 28056<br>nom_comm: BOUTIGNY-PROUAIS<br>res_geocod_google: sublocality_level_1",
+        "ogc_fid": 22,
+        "id_art": "C0461",
+        "lib_art_crt": "Les Joncs",
+        "lib_art_lng": "Les Joncs",
+        "code_insee": 28056,
+        "nom_comm": "BOUTIGNY-PROUAIS",
+        "res_geocod_google": "sublocality_level_1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.46329,
+          49.024036,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Goussainville - GOUSSAINVILLE",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-4dfd35d6",
+        "description": "ogc_fid: 25<br>id_art: C0491<br>lib_art_crt: Goussainville<br>lib_art_lng: Goussainville<br>code_insee: 28185<br>nom_comm: GOUSSAINVILLE<br>res_geocod_google: train_station",
+        "ogc_fid": 25,
+        "id_art": "C0491",
+        "lib_art_crt": "Goussainville",
+        "lib_art_lng": "Goussainville",
+        "code_insee": 28185,
+        "nom_comm": "GOUSSAINVILLE",
+        "res_geocod_google": "train_station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.507675,
+          48.772275,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Eglise - HAVELU",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-4dfd35d6",
+        "description": "ogc_fid: 26<br>id_art: C0501<br>lib_art_crt: Eglise<br>lib_art_lng: Eglise<br>code_insee: 28193<br>nom_comm: HAVELU<br>res_geocod_google: route",
+        "ogc_fid": 26,
+        "id_art": "C0501",
+        "lib_art_crt": "Eglise",
+        "lib_art_lng": "Eglise",
+        "code_insee": 28193,
+        "nom_comm": "HAVELU",
+        "res_geocod_google": "route"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.679454,
+          48.79149799999999,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Vieilles Tuileries - PERDREAUVILLE",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-4dfd35d6",
+        "description": "ogc_fid: 27<br>id_art: C0584<br>lib_art_crt: Vieilles Tuileries<br>lib_art_lng: Vieilles Tuileries<br>code_insee: 78484<br>nom_comm: PERDREAUVILLE<br>res_geocod_google: route",
+        "ogc_fid": 27,
+        "id_art": "C0584",
+        "lib_art_crt": "Vieilles Tuileries",
+        "lib_art_lng": "Vieilles Tuileries",
+        "code_insee": 78484,
+        "nom_comm": "PERDREAUVILLE",
+        "res_geocod_google": "route"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.586708,
+          48.920741,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Ecole - FLINS-NEUVE-EGLISE",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-4dfd35d6",
+        "description": "ogc_fid: 28<br>id_art: C0658<br>lib_art_crt: Ecole<br>lib_art_lng: Ecole<br>code_insee: 78237<br>nom_comm: FLINS-NEUVE-EGLISE<br>res_geocod_google: route",
+        "ogc_fid": 28,
+        "id_art": "C0658",
+        "lib_art_crt": "Ecole",
+        "lib_art_lng": "Ecole",
+        "code_insee": 78237,
+        "nom_comm": "FLINS-NEUVE-EGLISE",
+        "res_geocod_google": "route"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.595364,
+          48.96751499999999,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Bléry - PERDREAUVILLE",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-4dfd35d6",
+        "description": "ogc_fid: 29<br>id_art: C0665<br>lib_art_crt: Bléry<br>lib_art_lng: Bléry<br>code_insee: 78484<br>nom_comm: PERDREAUVILLE<br>res_geocod_google: sublocality_level_1",
+        "ogc_fid": 29,
+        "id_art": "C0665",
+        "lib_art_crt": "Bléry",
+        "lib_art_lng": "Bléry",
+        "code_insee": 78484,
+        "nom_comm": "PERDREAUVILLE",
+        "res_geocod_google": "sublocality_level_1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.628704,
+          48.949996,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Les Hélouins - PERDREAUVILLE",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-4dfd35d6",
+        "description": "ogc_fid: 30<br>id_art: C0667<br>lib_art_crt: Les Hélouins<br>lib_art_lng: Les Hélouins<br>code_insee: 78484<br>nom_comm: PERDREAUVILLE<br>res_geocod_google: sublocality_level_1",
+        "ogc_fid": 30,
+        "id_art": "C0667",
+        "lib_art_crt": "Les Hélouins",
+        "lib_art_lng": "Les Hélouins",
+        "code_insee": 78484,
+        "nom_comm": "PERDREAUVILLE",
+        "res_geocod_google": "sublocality_level_1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.684853,
+          48.63598,
+          0
+        ]
+      },
+      "properties": {
+        "name": "La Baste - RAIZEUX",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-4dfd35d6",
+        "description": "ogc_fid: 31<br>id_art: C0691<br>lib_art_crt: La Baste<br>lib_art_lng: La Baste<br>code_insee: 78516<br>nom_comm: RAIZEUX<br>res_geocod_google: premise",
+        "ogc_fid": 31,
+        "id_art": "C0691",
+        "lib_art_crt": "La Baste",
+        "lib_art_lng": "La Baste",
+        "code_insee": 78516,
+        "nom_comm": "RAIZEUX",
+        "res_geocod_google": "premise"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.691193,
+          48.92217200000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Calvaire - ROSAY",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-4dfd35d6",
+        "description": "ogc_fid: 32<br>id_art: C0732<br>lib_art_crt: Calvaire<br>lib_art_lng: Calvaire<br>code_insee: 78530<br>nom_comm: ROSAY<br>res_geocod_google: route",
+        "ogc_fid": 32,
+        "id_art": "C0732",
+        "lib_art_crt": "Calvaire",
+        "lib_art_lng": "Calvaire",
+        "code_insee": 78530,
+        "nom_comm": "ROSAY",
+        "res_geocod_google": "route"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.699838,
+          48.919511,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Rue De Paris - ROSAY",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-4dfd35d6",
+        "description": "ogc_fid: 33<br>id_art: C0733<br>lib_art_crt: RUE DE PARIS<br>lib_art_lng: Rue De Paris<br>code_insee: 78530<br>nom_comm: ROSAY<br>res_geocod_google: route",
+        "ogc_fid": 33,
+        "id_art": "C0733",
+        "lib_art_crt": "RUE DE PARIS",
+        "lib_art_lng": "Rue De Paris",
+        "code_insee": 78530,
+        "nom_comm": "ROSAY",
+        "res_geocod_google": "route"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.507599,
+          48.957878,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Ecole De Saint-Illiers Le Bois - SAINT-ILLIERS-LE-BOIS",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-4dfd35d6",
+        "description": "ogc_fid: 35<br>id_art: C0858<br>lib_art_crt: Ecole De Saint-Illie<br>lib_art_lng: Ecole De Saint-Illiers Le Bois<br>code_insee: 78559<br>nom_comm: SAINT-ILLIERS-LE-BOIS<br>res_geocod_google: locality",
+        "ogc_fid": 35,
+        "id_art": "C0858",
+        "lib_art_crt": "Ecole De Saint-Illie",
+        "lib_art_lng": "Ecole De Saint-Illiers Le Bois",
+        "code_insee": 78559,
+        "nom_comm": "SAINT-ILLIERS-LE-BOIS",
+        "res_geocod_google": "locality"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.543047,
+          48.977926,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Arrêt De Bus De Saint-Illiers La - SAINT-ILLIERS-LA-VILLE",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-4dfd35d6",
+        "description": "ogc_fid: 36<br>id_art: C0859<br>lib_art_crt: Arrêt De Bus De Sain<br>lib_art_lng: Arrêt De Bus De Saint-Illiers La<br>code_insee: 78558<br>nom_comm: SAINT-ILLIERS-LA-VILLE<br>res_geocod_google: locality",
+        "ogc_fid": 36,
+        "id_art": "C0859",
+        "lib_art_crt": "Arrêt De Bus De Sain",
+        "lib_art_lng": "Arrêt De Bus De Saint-Illiers La",
+        "code_insee": 78558,
+        "nom_comm": "SAINT-ILLIERS-LA-VILLE",
+        "res_geocod_google": "locality"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.880659,
+          48.999663,
+          0
+        ]
+      },
+      "properties": {
+        "name": "MEZY-SUR-SEINE - COLLEGE GAILLON - MEZY-SUR-SEINE",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-4dfd35d6",
+        "description": "ogc_fid: 44<br>id_art: C1299<br>lib_art_crt: COLLEGE GAILLON<br>lib_art_lng: MEZY-SUR-SEINE - COLLEGE GAILLON<br>code_insee: 78403<br>nom_comm: MEZY-SUR-SEINE<br>res_geocod_google: locality",
+        "ogc_fid": 44,
+        "id_art": "C1299",
+        "lib_art_crt": "COLLEGE GAILLON",
+        "lib_art_lng": "MEZY-SUR-SEINE - COLLEGE GAILLON",
+        "code_insee": 78403,
+        "nom_comm": "MEZY-SUR-SEINE",
+        "res_geocod_google": "locality"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.643273,
+          48.85487500000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Chemin de la Liberté - ORVILLIERS",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-4dfd35d6",
+        "description": "ogc_fid: 45<br>id_art: C1316<br>lib_art_crt: Chemin de la Liberté<br>lib_art_lng: Chemin de la Liberté<br>code_insee: 78474<br>nom_comm: ORVILLIERS<br>res_geocod_google: route",
+        "ogc_fid": 45,
+        "id_art": "C1316",
+        "lib_art_crt": "Chemin de la Liberté",
+        "lib_art_lng": "Chemin de la Liberté",
+        "code_insee": 78474,
+        "nom_comm": "ORVILLIERS",
+        "res_geocod_google": "route"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.527162,
+          48.93044,
+          0
+        ]
+      },
+      "properties": {
+        "name": "LAUNAY Lotissement - NEAUPHLETTE",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-4dfd35d6",
+        "description": "ogc_fid: 50<br>id_art: C1340<br>lib_art_crt: LAUNAY Lotissement<br>lib_art_lng: LAUNAY Lotissement<br>code_insee: 78444<br>nom_comm: NEAUPHLETTE<br>res_geocod_google: locality",
+        "ogc_fid": 50,
+        "id_art": "C1340",
+        "lib_art_crt": "LAUNAY Lotissement",
+        "lib_art_lng": "LAUNAY Lotissement",
+        "code_insee": 78444,
+        "nom_comm": "NEAUPHLETTE",
+        "res_geocod_google": "locality"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.69539,
+          48.93108300000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "VILLETTE - RUE DE PARIS - VILLETTE",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-4dfd35d6",
+        "description": "ogc_fid: 51<br>id_art: C1352<br>lib_art_crt: RUE DE PARIS<br>lib_art_lng: VILLETTE - RUE DE PARIS<br>code_insee: 78677<br>nom_comm: VILLETTE<br>res_geocod_google: route",
+        "ogc_fid": 51,
+        "id_art": "C1352",
+        "lib_art_crt": "RUE DE PARIS",
+        "lib_art_lng": "VILLETTE - RUE DE PARIS",
+        "code_insee": 78677,
+        "nom_comm": "VILLETTE",
+        "res_geocod_google": "route"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.681616,
+          48.91598,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Primevères - ROSAY",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-4dfd35d6",
+        "description": "ogc_fid: 52<br>id_art: C1354<br>lib_art_crt: Primevères<br>lib_art_lng: Primevères<br>code_insee: 78530<br>nom_comm: ROSAY<br>res_geocod_google: route",
+        "ogc_fid": 52,
+        "id_art": "C1354",
+        "lib_art_crt": "Primevères",
+        "lib_art_lng": "Primevères",
+        "code_insee": 78530,
+        "nom_comm": "ROSAY",
+        "res_geocod_google": "route"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.588253,
+          48.745494,
+          0
+        ]
+      },
+      "properties": {
+        "name": "BOUTIGNY - BOUTIGNY-PROUAIS",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-4dfd35d6",
+        "description": "ogc_fid: 53<br>id_art: C1356<br>lib_art_crt: BOUTIGNY<br>lib_art_lng: BOUTIGNY<br>code_insee: 28056<br>nom_comm: BOUTIGNY-PROUAIS<br>res_geocod_google: route",
+        "ogc_fid": 53,
+        "id_art": "C1356",
+        "lib_art_crt": "BOUTIGNY",
+        "lib_art_lng": "BOUTIGNY",
+        "code_insee": 28056,
+        "nom_comm": "BOUTIGNY-PROUAIS",
+        "res_geocod_google": "route"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.570885,
+          48.762007,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Cloches - CHAMPAGNE",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-4dfd35d6",
+        "description": "ogc_fid: 55<br>id_art: C1363<br>lib_art_crt: Cloches<br>lib_art_lng: Cloches<br>code_insee: 28069<br>nom_comm: CHAMPAGNE<br>res_geocod_google: sublocality_level_1",
+        "ogc_fid": 55,
+        "id_art": "C1363",
+        "lib_art_crt": "Cloches",
+        "lib_art_lng": "Cloches",
+        "code_insee": 28069,
+        "nom_comm": "CHAMPAGNE",
+        "res_geocod_google": "sublocality_level_1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.568953,
+          48.76435,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Vieux Près - CHAMPAGNE",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-4dfd35d6",
+        "description": "ogc_fid: 56<br>id_art: C1365<br>lib_art_crt: Vieux Près<br>lib_art_lng: Vieux Près<br>code_insee: 28069<br>nom_comm: CHAMPAGNE<br>res_geocod_google: route",
+        "ogc_fid": 56,
+        "id_art": "C1365",
+        "lib_art_crt": "Vieux Près",
+        "lib_art_lng": "Vieux Près",
+        "code_insee": 28069,
+        "nom_comm": "CHAMPAGNE",
+        "res_geocod_google": "route"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.093761,
+          48.898908,
+          0
+        ]
+      },
+      "properties": {
+        "name": "CFA SUP DE V CCIP - SAINT-GERMAIN-EN-LAYE",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-4dfd35d6",
+        "description": "ogc_fid: 57<br>id_art: C1383<br>lib_art_crt: CFA SUP DE V CCIP<br>lib_art_lng: CFA SUP DE V CCIP<br>code_insee: 78551<br>nom_comm: SAINT-GERMAIN-EN-LAYE<br>res_geocod_google: locality",
+        "ogc_fid": 57,
+        "id_art": "C1383",
+        "lib_art_crt": "CFA SUP DE V CCIP",
+        "lib_art_lng": "CFA SUP DE V CCIP",
+        "code_insee": 78551,
+        "nom_comm": "SAINT-GERMAIN-EN-LAYE",
+        "res_geocod_google": "locality"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.899287,
+          48.71593300000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "école elementaire roger colart - LES ESSARTS-LE-ROI",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-4dfd35d6",
+        "description": "ogc_fid: 58<br>id_art: C1483<br>lib_art_crt: epu elem roger colar<br>lib_art_lng: école elementaire roger colart<br>code_insee: 78220<br>nom_comm: LES ESSARTS-LE-ROI<br>res_geocod_google: locality",
+        "ogc_fid": 58,
+        "id_art": "C1483",
+        "lib_art_crt": "epu elem roger colar",
+        "lib_art_lng": "école elementaire roger colart",
+        "code_insee": 78220,
+        "nom_comm": "LES ESSARTS-LE-ROI",
+        "res_geocod_google": "locality"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.462213,
+          49.051961,
+          0
+        ]
+      },
+      "properties": {
+        "name": "le MAULU - BLARU",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-4dfd35d6",
+        "description": "ogc_fid: 59<br>id_art: C1490<br>lib_art_crt: le MAULU<br>lib_art_lng: le MAULU<br>code_insee: 78068<br>nom_comm: BLARU<br>res_geocod_google: sublocality_level_1",
+        "ogc_fid": 59,
+        "id_art": "C1490",
+        "lib_art_crt": "le MAULU",
+        "lib_art_lng": "le MAULU",
+        "code_insee": 78068,
+        "nom_comm": "BLARU",
+        "res_geocod_google": "sublocality_level_1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.48577,
+          49.040359,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Le Chênet - BLARU",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-4dfd35d6",
+        "description": "ogc_fid: 60<br>id_art: C1491<br>lib_art_crt: Le Chênet<br>lib_art_lng: Le Chênet<br>code_insee: 78068<br>nom_comm: BLARU<br>res_geocod_google: sublocality_level_1",
+        "ogc_fid": 60,
+        "id_art": "C1491",
+        "lib_art_crt": "Le Chênet",
+        "lib_art_lng": "Le Chênet",
+        "code_insee": 78068,
+        "nom_comm": "BLARU",
+        "res_geocod_google": "sublocality_level_1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.452287,
+          49.096384,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Place Des Tilleuils - BELLEFONTAINE",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-4dfd35d6",
+        "description": "ogc_fid: 61<br>id_art: E0088<br>lib_art_crt: Place Des Tilleuils<br>lib_art_lng: Place Des Tilleuils<br>code_insee: 95055<br>nom_comm: BELLEFONTAINE<br>res_geocod_google: route",
+        "ogc_fid": 61,
+        "id_art": "E0088",
+        "lib_art_crt": "Place Des Tilleuils",
+        "lib_art_lng": "Place Des Tilleuils",
+        "code_insee": 95055,
+        "nom_comm": "BELLEFONTAINE",
+        "res_geocod_google": "route"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.134785,
+          49.169294,
+          0
+        ]
+      },
+      "properties": {
+        "name": "La Ferme - FROUVILLE",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-4dfd35d6",
+        "description": "ogc_fid: 62<br>id_art: E0134<br>lib_art_crt: La Ferme<br>lib_art_lng: La Ferme<br>code_insee: 95258<br>nom_comm: FROUVILLE<br>res_geocod_google: route",
+        "ogc_fid": 62,
+        "id_art": "E0134",
+        "lib_art_crt": "La Ferme",
+        "lib_art_lng": "La Ferme",
+        "code_insee": 95258,
+        "nom_comm": "FROUVILLE",
+        "res_geocod_google": "route"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.585854,
+          48.744771,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Rosay Primevère - BOUTIGNY-PROUAIS",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-4dfd35d6",
+        "description": "ogc_fid: 14<br>id_art: C0396<br>lib_art_crt: Rosay Primevère<br>lib_art_lng: Rosay Primevère<br>code_insee: 28056<br>nom_comm: BOUTIGNY-PROUAIS<br>res_geocod_google: locality",
+        "ogc_fid": 14,
+        "id_art": "C0396",
+        "lib_art_crt": "Rosay Primevère",
+        "lib_art_lng": "Rosay Primevère",
+        "code_insee": 28056,
+        "nom_comm": "BOUTIGNY-PROUAIS",
+        "res_geocod_google": "locality"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.541693,
+          48.977215,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Ecole De Saint-Illiers La Ville - SAINT-ILLIERS-LA-VILLE",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-4dfd35d6",
+        "description": "ogc_fid: 34<br>id_art: C0857<br>lib_art_crt: Ecole De Saint-Illie<br>lib_art_lng: Ecole De Saint-Illiers La Ville<br>code_insee: 78558<br>nom_comm: SAINT-ILLIERS-LA-VILLE<br>res_geocod_google: locality",
+        "ogc_fid": 34,
+        "id_art": "C0857",
+        "lib_art_crt": "Ecole De Saint-Illie",
+        "lib_art_lng": "Ecole De Saint-Illiers La Ville",
+        "code_insee": 78558,
+        "nom_comm": "SAINT-ILLIERS-LA-VILLE",
+        "res_geocod_google": "locality"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.867578,
+          48.89486999999999,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Inter - MAREIL-SUR-MAULDRE",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-4dfd35d6",
+        "description": "ogc_fid: 37<br>id_art: C0983<br>lib_art_crt: Inter<br>lib_art_lng: Inter<br>code_insee: 78368<br>nom_comm: MAREIL-SUR-MAULDRE<br>res_geocod_google: locality",
+        "ogc_fid": 37,
+        "id_art": "C0983",
+        "lib_art_crt": "Inter",
+        "lib_art_lng": "Inter",
+        "code_insee": 78368,
+        "nom_comm": "MAREIL-SUR-MAULDRE",
+        "res_geocod_google": "locality"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.865804,
+          48.893924,
+          0
+        ]
+      },
+      "properties": {
+        "name": "1er Arrêt   Parc - MAREIL-SUR-MAULDRE",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-4dfd35d6",
+        "description": "ogc_fid: 38<br>id_art: C0984<br>lib_art_crt: 1er Arrêt   Parc<br>lib_art_lng: 1er Arrêt   Parc<br>code_insee: 78368<br>nom_comm: MAREIL-SUR-MAULDRE<br>res_geocod_google: locality",
+        "ogc_fid": 38,
+        "id_art": "C0984",
+        "lib_art_crt": "1er Arrêt   Parc",
+        "lib_art_lng": "1er Arrêt   Parc",
+        "code_insee": 78368,
+        "nom_comm": "MAREIL-SUR-MAULDRE",
+        "res_geocod_google": "locality"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.866411,
+          48.89449599999999,
+          0
+        ]
+      },
+      "properties": {
+        "name": "2em Arrêt  Parc - MAREIL-SUR-MAULDRE",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-4dfd35d6",
+        "description": "ogc_fid: 39<br>id_art: C0985<br>lib_art_crt: 2em Arrêt  Parc<br>lib_art_lng: 2em Arrêt  Parc<br>code_insee: 78368<br>nom_comm: MAREIL-SUR-MAULDRE<br>res_geocod_google: locality",
+        "ogc_fid": 39,
+        "id_art": "C0985",
+        "lib_art_crt": "2em Arrêt  Parc",
+        "lib_art_lng": "2em Arrêt  Parc",
+        "code_insee": 78368,
+        "nom_comm": "MAREIL-SUR-MAULDRE",
+        "res_geocod_google": "locality"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.863945,
+          48.89360500000002,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Vieux Mareil  Mareil78 - MAREIL-SUR-MAULDRE",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-4dfd35d6",
+        "description": "ogc_fid: 43<br>id_art: C0989<br>lib_art_crt: Vieux Mareil  Mareil<br>lib_art_lng: Vieux Mareil  Mareil78<br>code_insee: 78368<br>nom_comm: MAREIL-SUR-MAULDRE<br>res_geocod_google: locality",
+        "ogc_fid": 43,
+        "id_art": "C0989",
+        "lib_art_crt": "Vieux Mareil  Mareil",
+        "lib_art_lng": "Vieux Mareil  Mareil78",
+        "code_insee": 78368,
+        "nom_comm": "MAREIL-SUR-MAULDRE",
+        "res_geocod_google": "locality"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.870532,
+          48.893405,
+          0
+        ]
+      },
+      "properties": {
+        "name": "1er Arrêt  Mareil 78 - MAREIL-SUR-MAULDRE",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-4dfd35d6",
+        "description": "ogc_fid: 40<br>id_art: C0986<br>lib_art_crt: 1er Arrêt  Mareil 78<br>lib_art_lng: 1er Arrêt  Mareil 78<br>code_insee: 78368<br>nom_comm: MAREIL-SUR-MAULDRE<br>res_geocod_google: train_station",
+        "ogc_fid": 40,
+        "id_art": "C0986",
+        "lib_art_crt": "1er Arrêt  Mareil 78",
+        "lib_art_lng": "1er Arrêt  Mareil 78",
+        "code_insee": 78368,
+        "nom_comm": "MAREIL-SUR-MAULDRE",
+        "res_geocod_google": "train_station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.873035,
+          48.89390900000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "2eme Arrêt  Mareil 78 - MAREIL-SUR-MAULDRE",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-4dfd35d6",
+        "description": "ogc_fid: 41<br>id_art: C0987<br>lib_art_crt: 2eme Arrêt  Mareil 7<br>lib_art_lng: 2eme Arrêt  Mareil 78<br>code_insee: 78368<br>nom_comm: MAREIL-SUR-MAULDRE<br>res_geocod_google: train_station",
+        "ogc_fid": 41,
+        "id_art": "C0987",
+        "lib_art_crt": "2eme Arrêt  Mareil 7",
+        "lib_art_lng": "2eme Arrêt  Mareil 78",
+        "code_insee": 78368,
+        "nom_comm": "MAREIL-SUR-MAULDRE",
+        "res_geocod_google": "train_station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.869962,
+          48.894701,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Tourne Bride Mareil 78 - MAREIL-SUR-MAULDRE",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-4dfd35d6",
+        "description": "ogc_fid: 42<br>id_art: C0988<br>lib_art_crt: Tourne Bride Mareil<br>lib_art_lng: Tourne Bride Mareil 78<br>code_insee: 78368<br>nom_comm: MAREIL-SUR-MAULDRE<br>res_geocod_google: train_station",
+        "ogc_fid": 42,
+        "id_art": "C0988",
+        "lib_art_crt": "Tourne Bride Mareil",
+        "lib_art_lng": "Tourne Bride Mareil 78",
+        "code_insee": 78368,
+        "nom_comm": "MAREIL-SUR-MAULDRE",
+        "res_geocod_google": "train_station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.684708,
+          48.623887,
+          0
+        ]
+      },
+      "properties": {
+        "name": "AMBLAINCOURT centre - RAIZEUX",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-4dfd35d6",
+        "description": "ogc_fid: 46<br>id_art: C1335<br>lib_art_crt: AMBLAINCOURT centre<br>lib_art_lng: AMBLAINCOURT centre<br>code_insee: 78516<br>nom_comm: RAIZEUX<br>res_geocod_google: locality",
+        "ogc_fid": 46,
+        "id_art": "C1335",
+        "lib_art_crt": "AMBLAINCOURT centre",
+        "lib_art_lng": "AMBLAINCOURT centre",
+        "code_insee": 78516,
+        "nom_comm": "RAIZEUX",
+        "res_geocod_google": "locality"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.679776,
+          48.62392400000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "AMBLAINCOURT Nord - RAIZEUX",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-4dfd35d6",
+        "description": "ogc_fid: 47<br>id_art: C1336<br>lib_art_crt: AMBLAINCOURT Nord<br>lib_art_lng: AMBLAINCOURT Nord<br>code_insee: 78516<br>nom_comm: RAIZEUX<br>res_geocod_google: locality",
+        "ogc_fid": 47,
+        "id_art": "C1336",
+        "lib_art_crt": "AMBLAINCOURT Nord",
+        "lib_art_lng": "AMBLAINCOURT Nord",
+        "code_insee": 78516,
+        "nom_comm": "RAIZEUX",
+        "res_geocod_google": "locality"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.678973,
+          48.62314599999999,
+          0
+        ]
+      },
+      "properties": {
+        "name": "BECHEREAU L'Orme - RAIZEUX",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-4dfd35d6",
+        "description": "ogc_fid: 48<br>id_art: C1337<br>lib_art_crt: BECHEREAU L'Orme<br>lib_art_lng: BECHEREAU L'Orme<br>code_insee: 78516<br>nom_comm: RAIZEUX<br>res_geocod_google: locality",
+        "ogc_fid": 48,
+        "id_art": "C1337",
+        "lib_art_crt": "BECHEREAU L'Orme",
+        "lib_art_lng": "BECHEREAU L'Orme",
+        "code_insee": 78516,
+        "nom_comm": "RAIZEUX",
+        "res_geocod_google": "locality"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.685305,
+          48.623269,
+          0
+        ]
+      },
+      "properties": {
+        "name": "BECHEREAU Ecole maternelle - RAIZEUX",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-4dfd35d6",
+        "description": "ogc_fid: 49<br>id_art: C1338<br>lib_art_crt: BECHEREAU Ecole mate<br>lib_art_lng: BECHEREAU Ecole maternelle<br>code_insee: 78516<br>nom_comm: RAIZEUX<br>res_geocod_google: locality",
+        "ogc_fid": 49,
+        "id_art": "C1338",
+        "lib_art_crt": "BECHEREAU Ecole mate",
+        "lib_art_lng": "BECHEREAU Ecole maternelle",
+        "code_insee": 78516,
+        "nom_comm": "RAIZEUX",
+        "res_geocod_google": "locality"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.16716,
+          49.15423800000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Hédouville - Chennevières - FROUVILLE",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-4dfd35d6",
+        "description": "ogc_fid: 63<br>id_art: E0140<br>lib_art_crt: Chennevières<br>lib_art_lng: Hédouville - Chennevières<br>code_insee: 95258<br>nom_comm: FROUVILLE<br>res_geocod_google: route",
+        "ogc_fid": 63,
+        "id_art": "E0140",
+        "lib_art_crt": "Chennevières",
+        "lib_art_lng": "Hédouville - Chennevières",
+        "code_insee": 95258,
+        "nom_comm": "FROUVILLE",
+        "res_geocod_google": "route"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.327234,
+          48.975751,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Galaté (Ratp)/Abel Fauveau - DEUIL-LA-BARRE",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-4dfd35d6",
+        "description": "ogc_fid: 64<br>id_art: E0185<br>lib_art_crt: Abel Fauveau<br>lib_art_lng: Galaté (Ratp)/Abel Fauveau<br>code_insee: 95197<br>nom_comm: DEUIL-LA-BARRE<br>res_geocod_google: locality",
+        "ogc_fid": 64,
+        "id_art": "E0185",
+        "lib_art_crt": "Abel Fauveau",
+        "lib_art_lng": "Galaté (Ratp)/Abel Fauveau",
+        "code_insee": 95197,
+        "nom_comm": "DEUIL-LA-BARRE",
+        "res_geocod_google": "locality"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.38128662109375,
+          49.20952328994859
+        ]
+      },
+      "properties": {
+        "name": "Garage Toyota - BEAUMONT-SUR-OISE",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-4dfd35d6",
+        "description": "ogc_fid: 65<br>id_art: E0357<br>lib_art_crt: Garage Toyota<br>lib_art_lng: Garage Toyota<br>code_insee: 95052<br>nom_comm: BEAUMONT-SUR-OISE<br>res_geocod_google: locality",
+        "ogc_fid": 65,
+        "id_art": "E0357",
+        "lib_art_crt": "Garage Toyota",
+        "lib_art_lng": "Garage Toyota",
+        "code_insee": 95052,
+        "nom_comm": "BEAUMONT-SUR-OISE",
+        "res_geocod_google": "locality"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.138912,
+          49.16219899999999,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Messelan - LABBEVILLE",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-4dfd35d6",
+        "description": "ogc_fid: 66<br>id_art: E0382<br>lib_art_crt: Messelan<br>lib_art_lng: Messelan<br>code_insee: 95328<br>nom_comm: LABBEVILLE<br>res_geocod_google: sublocality_level_1",
+        "ogc_fid": 66,
+        "id_art": "E0382",
+        "lib_art_crt": "Messelan",
+        "lib_art_lng": "Messelan",
+        "code_insee": 95328,
+        "nom_comm": "LABBEVILLE",
+        "res_geocod_google": "sublocality_level_1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.64958,
+          48.82706900000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Rte Tac.\n - RICHEBOURG",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-4dfd35d6",
+        "description": "ogc_fid: 67<br>id_art: C0345<br>lib_art_crt: Rte Tac.<br>lib_art_lng: Rte Tac.<br>code_insee: 78520<br>nom_comm: RICHEBOURG<br>res_geocod_google: ND",
+        "ogc_fid": 67,
+        "id_art": "C0345",
+        "lib_art_crt": "Rte Tac.",
+        "lib_art_lng": "Rte Tac.",
+        "code_insee": 78520,
+        "nom_comm": "RICHEBOURG",
+        "res_geocod_google": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.605744,
+          48.968964,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Vieux Poirier\n - PERDREAUVILLE",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-4dfd35d6",
+        "description": "ogc_fid: 68<br>id_art: C0585<br>lib_art_crt: Vieux Poirier<br>lib_art_lng: Vieux Poirier<br>code_insee: 78484<br>nom_comm: PERDREAUVILLE<br>res_geocod_google: ND",
+        "ogc_fid": 68,
+        "id_art": "C0585",
+        "lib_art_crt": "Vieux Poirier",
+        "lib_art_lng": "Vieux Poirier",
+        "code_insee": 78484,
+        "nom_comm": "PERDREAUVILLE",
+        "res_geocod_google": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.889365,
+          49.12627500000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Accompagnatrice\n - COMMENY",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-4dfd35d6",
+        "description": "ogc_fid: 69<br>id_art: E0262<br>lib_art_crt: Accompagnatrice<br>lib_art_lng: Accompagnatrice<br>code_insee: 95169<br>nom_comm: COMMENY<br>res_geocod_google: ND",
+        "ogc_fid": 69,
+        "id_art": "E0262",
+        "lib_art_crt": "Accompagnatrice",
+        "lib_art_lng": "Accompagnatrice",
+        "code_insee": 95169,
+        "nom_comm": "COMMENY",
+        "res_geocod_google": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.171156,
+          49.15428399999999,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Lotissement\n - HEDOUVILLE",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-4dfd35d6",
+        "description": "ogc_fid: 70<br>id_art: E0603<br>lib_art_crt: Lotissement<br>lib_art_lng: Lotissement<br>code_insee: 95304<br>nom_comm: HEDOUVILLE<br>res_geocod_google: ND",
+        "ogc_fid": 70,
+        "id_art": "E0603",
+        "lib_art_crt": "Lotissement",
+        "lib_art_lng": "Lotissement",
+        "code_insee": 95304,
+        "nom_comm": "HEDOUVILLE",
+        "res_geocod_google": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.154252,
+          49.148847,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Hédouville - Lotissement\n - FROUVILLE",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-4dfd35d6",
+        "description": "ogc_fid: 71<br>id_art: E0610<br>lib_art_crt: Hédouville -Lotismt<br>lib_art_lng: Hédouville - Lotissement<br>code_insee: 95258<br>nom_comm: FROUVILLE<br>res_geocod_google: ND",
+        "ogc_fid": 71,
+        "id_art": "E0610",
+        "lib_art_crt": "Hédouville -Lotismt",
+        "lib_art_lng": "Hédouville - Lotissement",
+        "code_insee": 95258,
+        "nom_comm": "FROUVILLE",
+        "res_geocod_google": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.149995,
+          49.150249,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Hédouville - Eglise\n - FROUVILLE",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-4dfd35d6",
+        "description": "ogc_fid: 72<br>id_art: E0611<br>lib_art_crt: Hédouville - Eglise<br>lib_art_lng: Hédouville - Eglise<br>code_insee: 95258<br>nom_comm: FROUVILLE<br>res_geocod_google: ND",
+        "ogc_fid": 72,
+        "id_art": "E0611",
+        "lib_art_crt": "Hédouville - Eglise",
+        "lib_art_lng": "Hédouville - Eglise",
+        "code_insee": 95258,
+        "nom_comm": "FROUVILLE",
+        "res_geocod_google": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.150368,
+          49.14890799999999,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Hédouville - Mairie\n - FROUVILLE",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-4dfd35d6",
+        "description": "ogc_fid: 73<br>id_art: E0612<br>lib_art_crt: Hédouville - Mairie<br>lib_art_lng: Hédouville - Mairie<br>code_insee: 95258<br>nom_comm: FROUVILLE<br>res_geocod_google: ND",
+        "ogc_fid": 73,
+        "id_art": "E0612",
+        "lib_art_crt": "Hédouville - Mairie",
+        "lib_art_lng": "Hédouville - Mairie",
+        "code_insee": 95258,
+        "nom_comm": "FROUVILLE",
+        "res_geocod_google": "ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.584443,
+          48.74556,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Rosay Bourg - BOUTIGNY-PROUAIS",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-4dfd35d6",
+        "description": "ogc_fid: 9<br>id_art: C0355<br>lib_art_crt: Rosay Bourg<br>lib_art_lng: Rosay Bourg<br>code_insee: 28056<br>nom_comm: BOUTIGNY-PROUAIS<br>res_geocod_google: locality",
+        "ogc_fid": 9,
+        "id_art": "C0355",
+        "lib_art_crt": "Rosay Bourg",
+        "lib_art_lng": "Rosay Bourg",
+        "code_insee": 28056,
+        "nom_comm": "BOUTIGNY-PROUAIS",
+        "res_geocod_google": "locality"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.586638,
+          48.745498,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Centre - BOUTIGNY-PROUAIS",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-4dfd35d6",
+        "description": "ogc_fid: 18<br>id_art: C0410<br>lib_art_crt: Centre<br>lib_art_lng: Centre<br>code_insee: 28056<br>nom_comm: BOUTIGNY-PROUAIS<br>res_geocod_google: locality",
+        "ogc_fid": 18,
+        "id_art": "C0410",
+        "lib_art_crt": "Centre",
+        "lib_art_lng": "Centre",
+        "code_insee": 28056,
+        "nom_comm": "BOUTIGNY-PROUAIS",
+        "res_geocod_google": "locality"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.587124,
+          48.744537,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Primevères - BOUTIGNY-PROUAIS",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-4dfd35d6",
+        "description": "ogc_fid: 23<br>id_art: C0477<br>lib_art_crt: Primevères<br>lib_art_lng: Primevères<br>code_insee: 28056<br>nom_comm: BOUTIGNY-PROUAIS<br>res_geocod_google: locality",
+        "ogc_fid": 23,
+        "id_art": "C0477",
+        "lib_art_crt": "Primevères",
+        "lib_art_lng": "Primevères",
+        "code_insee": 28056,
+        "nom_comm": "BOUTIGNY-PROUAIS",
+        "res_geocod_google": "locality"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.585704,
+          48.745935,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Bourg - BOUTIGNY-PROUAIS",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-4dfd35d6",
+        "description": "ogc_fid: 24<br>id_art: C0478<br>lib_art_crt: Bourg<br>lib_art_lng: Bourg<br>code_insee: 28056<br>nom_comm: BOUTIGNY-PROUAIS<br>res_geocod_google: locality",
+        "ogc_fid": 24,
+        "id_art": "C0478",
+        "lib_art_crt": "Bourg",
+        "lib_art_lng": "Bourg",
+        "code_insee": 28056,
+        "nom_comm": "BOUTIGNY-PROUAIS",
+        "res_geocod_google": "locality"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.58803,
+          48.744821,
+          0
+        ]
+      },
+      "properties": {
+        "name": "La pillaisserie - BOUTIGNY-PROUAIS",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-4dfd35d6",
+        "description": "ogc_fid: 54<br>id_art: C1357<br>lib_art_crt: La pillaisserie<br>lib_art_lng: La pillaisserie<br>code_insee: 28056<br>nom_comm: BOUTIGNY-PROUAIS<br>res_geocod_google: locality",
+        "ogc_fid": 54,
+        "id_art": "C1357",
+        "lib_art_crt": "La pillaisserie",
+        "lib_art_lng": "La pillaisserie",
+        "code_insee": 28056,
+        "nom_comm": "BOUTIGNY-PROUAIS",
+        "res_geocod_google": "locality"
+      }
+    }
+  ]
+}
